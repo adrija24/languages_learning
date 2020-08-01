@@ -1,4 +1,4 @@
-#Practice Problem 1 - Age calculator
+# Practice Problem 1 - Age calculator
 
 try:
     data = input("Enter your Age or your Birth Year: ")
