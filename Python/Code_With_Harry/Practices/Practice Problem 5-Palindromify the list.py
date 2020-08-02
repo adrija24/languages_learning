@@ -1,4 +1,4 @@
-# Practice Problem 5-Palindromify the list
+# Practice Problem 5-Palindromify the List
 
 try:
     lst = []
