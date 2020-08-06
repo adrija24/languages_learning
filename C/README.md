@@ -22,3 +22,13 @@
    * Highest between two numbers(with conditional operator)
    * Lowest between two numbers(with conditional operator)
    * Checking a leap year(wrong)
+
+## 2. Day - 2
+   * Distribution in division
+   * Electric bill calculation
+   * Quadratic equation
+   * Find the value of x
+   * Find the value of y for different x(process 1)
+   * Find the value of y for different x(process 2)
+   * Find the value of y for different x(process 3)
+   * Calculator using switch case
