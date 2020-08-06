@@ -32,3 +32,18 @@
    * Find the value of y for different x(process 2)
    * Find the value of y for different x(process 3)
    * Calculator using switch case
+   * Knowing about increment (i++ and ++i)
+   * Knowing about decrement (i-- and --i)
+   * Selection of candidate by criteria
+   * Find x1 and x2
+   * Name looping (Printing name 10 times)
+   * 1-10 looping (Printing 1 to 10)
+   * 10-1 looping (Printing 10 to 1)
+   * Even numbers between 1 to 10
+   * Odd numbers between 1 to 10
+   * Multiple of 5 in a given range
+   * Multiple of 5 or 7 in a given range
+   * Multiple of 5 and 7 in a given range
+   
+## 3. Day - 3
+   * Sum of a series upto n'th term
