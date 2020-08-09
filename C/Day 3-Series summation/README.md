@@ -4,12 +4,12 @@
    * Sum of a series upto n'th term
    * Sum of a square term series upto n'th term
    * Sum of a square root term series up to n'th term
-   * Sum of 1 devided by n series up to n'th term
+   * Sum of 1/n series up to n'th term
    * Sum of x^n series up to n'th term
    * Sum of x^n series + 1 up to n'th term (process 1)
    * Sum of x^n series + 1 up to n'th term (process 2)
    * Sum of x^n series + 1 up to n'th term (process 3)
-   * Sum of 1 devided by x^n series up to n'th term
+   * Sum of 1/(x^n) series up to n'th term
    * Sum of +- series up to n'th term
    * Sum of +- od x^n series up to n'th term
    * Prime number verifiaction
@@ -24,5 +24,5 @@
    * Prime numbers identification
    * Sum of n! up to n'th term
    * Sum of +- of x^n devided by n! up to n'th term
-   * Sum of 1 devided by n! up to n'th term
+   * Sum of 1/(n!) up to n'th term
    * Sum of x^n devided by n! up to n'th term
