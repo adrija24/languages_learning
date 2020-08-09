@@ -6,3 +6,5 @@ Printing a string, finding highest and lowest number, area-perimeter of a geomet
 ## 2. Day - 2
 Division, looping, multiple of a number in a range, odd-even number, calculator, quadratic equation
 ## 3. Day - 3
+Sum of various series and design using loop
+## 4. Day - 4
