@@ -6,12 +6,3 @@ Printing a string, finding highest and lowest number, area-perimeter of a geomet
 ## 2. Day - 2
 Division, looping, multiple of a number in a range, odd-even number, calculator, quadratic equation
 ## 3. Day - 3
-   * Sum of a series upto n'th term
-   * Sum of a square term series upto n'th term
-   * Sum of a square root term series up to n'th term
-   * Sum of 1 devided by n series up to n'th term
-   * Sum of x^n series up to n'th term
-   * Sum of x^n series + 1 up to n'th term (process 1)
-   * Sum of x^n series + 1 up to n'th term (process 2)
-   * Sum of x^n series + 1 up to n'th term (process 3)
-   * Sum of 1 devided by x^n series up to n'th term
