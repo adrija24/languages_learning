@@ -1,6 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)&nbsp;&nbsp;&nbsp;[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)&nbsp;&nbsp;&nbsp;[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)&nbsp;&nbsp;&nbsp;[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 ---
-# ************Day 1**************
+# ************Day 1************
    * Print Name
    * Adding two numbers
    * Area and perimeter of ractangle
