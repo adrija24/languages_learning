@@ -5,7 +5,6 @@
 ![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=f5e856&colorB=ffa526&style=for-the-badge)
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=5094cc&style=for-the-badge&logo=visual-studio-code)
 ---
-## languages
 ![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=d16521&colorB=b55010&style=for-the-badge)
 ![](https://img.shields.io/badge/python-used-bee5ed?colorA=b0c92e&colorB=487d3e&style=for-the-badge&logo=python)
 # Learning Various Languages
