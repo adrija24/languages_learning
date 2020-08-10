@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/git-181717?colorA=d9092b&style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/git-e6a5ac?colorA=e6091f&style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/for-you-181717?colorA=099450&colorB=9cd6ba&style=for-the-badge)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
