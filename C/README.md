@@ -8,3 +8,4 @@ Division, looping, multiple of a number in a range, odd-even number, calculator,
 ## 3. Day - 3
 Sum of various series and design using loop
 ## 4. Day - 4
+While loop and array
