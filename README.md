@@ -9,5 +9,5 @@
 
 
 # Different Languages List
-   * C ![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=d16521&colorB=b55010&style=for-the-badge)
-   * Python ![](https://img.shields.io/badge/python-used-bee5ed?colorA=b0c92e&colorB=487d3e&style=for-the-badge&logo=python)
+   * C&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=d16521&colorB=b55010&style=for-the-badge)
+   * Python&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/python-used-bee5ed?colorA=b0c92e&colorB=487d3e&style=for-the-badge&logo=python)
