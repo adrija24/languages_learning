@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/for-you-099450?colorA=80bf69&colorB=099450&style=for-the-badge)
 ![](https://img.shields.io/badge/check_it-out-bee5ed?colorA=37b6bd&colorB=3c9bb5&style=for-the-badge)
 ![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=f5d72f&colorB=ffa526&style=for-the-badge)
-![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=1873f2&style=for-the-badge&logo=visual-studio-code)
+![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=6ab1f7&style=for-the-badge&logo=visual-studio-code)
 # Various type of basic C programs
 ---
 ## 1. Day - 1
