@@ -4,6 +4,6 @@
 ---
 
 
-# Different Languages List
-   * C&nbsp
+# Different Languages' List
+   * C
    * Python
