@@ -1,5 +1,5 @@
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
-![](https://img.shields.io/badge/for-you-181717?colorA=099450&colorB=9cd6ba&style=for-the-badge&logo=visual-studio-code)
+![](https://img.shields.io/badge/git-181717?colorA=d9092b&style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/for-you-181717?colorA=099450&colorB=9cd6ba&style=for-the-badge)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 # Various type of basic C programs
