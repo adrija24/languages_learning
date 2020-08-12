@@ -8,3 +8,5 @@
 ---
 ## 1. Day - 1
 Printing a string, finding highest and lowest number, area-perimeter of a geometry, swapping 2 numbers, summation of series
+## 1. Day - 2
+Palindromic number, Armstrong and perfect number, array, matrix
