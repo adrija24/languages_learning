@@ -4,3 +4,7 @@
 ![](https://img.shields.io/badge/check_it-out-bee5ed?colorA=37b6bd&colorB=3c9bb5&style=for-the-badge)
 ![](https://img.shields.io/badge/java-used-bee5ed?colorA=b0c92e&colorB=487d3e&style=for-the-badge&logo=java)
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=5094cc&style=for-the-badge&logo=visual-studio-code)
+# Various type of basic Java programs
+---
+## 1. Day - 1
+Printing a string, finding highest and lowest number, area-perimeter of a geometry, swapping 2 numbers, summation of series
