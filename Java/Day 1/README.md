@@ -6,19 +6,21 @@
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=ae36d6&style=for-the-badge&logo=visual-studio-code)
 ---
 # Day 1
-   * Adding two numbers
-   * Simple calculator
+   * Add - Adding two numbers
+   * Calculator - Simple calculator
    * Coversion1 - Degree celcius to degree fahrenheit
    * Coversion2 - Degree fahrenheit to degree celcius
-   * Division management
-   * Factorial of a number
-   * Highest - highest between 3 numbers using conditional operator
-   * Leap year identification
-   * Printing name
-   * Quadratic equation solving
-   * Perimeter and area of a rectangle
-   * Sum - sum of +- 1/(x^i) series up to n'th term
-   * Sum1 - sum of 1/i series up to n'th term
-   * Sum2 - sum of (x^i) series up to n'th term
-   * Swapping of two numbers
-   * Area of triangle
+   * Division - Division management
+   * Factorial - Factorial of a number
+   * Highest - Highest between 3 numbers (using conditional operator)
+   * Highest2 - Highest between 3 numbers (using if-else)
+   * Leap - Leap year identification
+   * Name - Printing name
+   * Prime - Prime number checking
+   * Quadratic - Quadratic equation solving
+   * Rectangle - Perimeter and area of a rectangle
+   * Sum - Sum of +- 1/(x^i) series up to n'th term
+   * Sum1 - Sum of 1/i series up to n'th term
+   * Sum2 - Sum of (x^i) series up to n'th term
+   * Swap - Swapping of two numbers
+   * Triangle - Area of triangle
