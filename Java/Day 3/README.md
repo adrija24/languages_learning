@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/github-fff7f8?colorA=080808&colorB=8a8a8a&style=for-the-badge&logo=github)
 ![](https://img.shields.io/badge/for-you-099450?colorA=b0c92e&colorB=487d3e&style=for-the-badge)
 ![](https://img.shields.io/badge/check_it-out-bee5ed?colorA=3fc5d1&colorB=469acf&style=for-the-badge)
-![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=eb4646&colorB=b52d2d&style=for-the-badge)
+![](https://img.shields.io/badge/java-learned-bee5ed?colorA=70a8c4&colorB=007396&style=for-the-badge&logo=java)
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=ae36d6&style=for-the-badge&logo=visual-studio-code)
 ---
 # Day 1
