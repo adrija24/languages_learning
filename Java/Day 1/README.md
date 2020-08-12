@@ -14,4 +14,11 @@
    * Factorial of a number
    * Highest - highest between 3 numbers using conditional operator
    * Leap year identification
-   
+   * Printing name
+   * Quadratic equation solving
+   * Perimeter and area of a rectangle
+   * Sum - sum of +- 1/(x^i) series up to n'th term
+   * Sum1 - sum of 1/i series up to n'th term
+   * Sum2 - sum of (x^i) series up to n'th term
+   * Swapping of two numbers
+   * Area of triangle
