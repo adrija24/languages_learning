@@ -6,11 +6,11 @@
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=5094cc&style=for-the-badge&logo=visual-studio-code)
 # Various type of basic C programs
 ---
-## 1. Day - 1
+## Day - 1
 Printing a string, finding highest and lowest number, area-perimeter of a geometry, swapping 2 numbers, conditional operator
-## 2. Day - 2
+## Day - 2
 Division, looping, multiple of a number in a range, odd-even number, calculator, quadratic equation
-## 3. Day - 3
+## Day - 3
 Sum of various series and design using loop
-## 4. Day - 4
+## Day - 4
 While loop and array
