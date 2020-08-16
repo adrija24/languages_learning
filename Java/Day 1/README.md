@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/java-learned-bee5ed?colorA=70a8c4&colorB=007396&style=for-the-badge&logo=java)
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=ae36d6&style=for-the-badge&logo=visual-studio-code)
 ---
-# Day 1
+# Day :one:
    * Add - Adding two numbers
    * Calculator - Simple calculator
    * Coversion1 - Degree celcius to degree fahrenheit
