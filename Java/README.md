@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/for-you-099450?colorA=80bf69&colorB=099450&style=for-the-badge)
 ![](https://img.shields.io/badge/check_it-out-bee5ed?colorA=37b6bd&colorB=3c9bb5&style=for-the-badge)
 ![](https://img.shields.io/badge/java-used-bee5ed?colorA=b0c92e&colorB=487d3e&style=for-the-badge&logo=java)
-![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=5094cc&style=for-the-badge&logo=visual-studio-code)
+![](https://img.shields.io/badge/eclipse_ide-4.15.0-181717?colorA=2c2255&colorB=3c5280&style=for-the-badge&logo=eclipse-ide)
 # Various type of basic Java programs
 ---
 ## 1. Day - 1
