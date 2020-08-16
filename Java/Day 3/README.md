@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/for-you-099450?colorA=b0c92e&colorB=487d3e&style=for-the-badge)
 ![](https://img.shields.io/badge/check_it-out-bee5ed?colorA=3fc5d1&colorB=469acf&style=for-the-badge)
 ![](https://img.shields.io/badge/java-learned-bee5ed?colorA=70a8c4&colorB=007396&style=for-the-badge&logo=java)
-![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=ae36d6&style=for-the-badge&logo=visual-studio-code)
+![](https://img.shields.io/badge/eclipse_ide-4.15.0-181717?colorA=2c2255&colorB=3c5280&style=for-the-badge&logo=eclipse-ide)
 ---
 # Day :three:
    * AddClassObject - Add two numbers using ClassObject (without input from user)
