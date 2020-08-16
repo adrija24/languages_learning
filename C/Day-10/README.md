@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=eb4646&colorB=b52d2d&style=for-the-badge)
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=ae36d6&style=for-the-badge&logo=visual-studio-code)
 ---
-# Day :ten:
+# Day :keycap_ten:
    * Bubble sort using string
    * Design using string 2
    * Design using string 3
