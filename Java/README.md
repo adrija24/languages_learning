@@ -6,7 +6,9 @@
 ![](https://img.shields.io/badge/eclipse_ide-4.15.0-181717?colorA=2c2255&colorB=3c5280&style=for-the-badge&logo=eclipse-ide)
 # Various type of basic Java programs
 ---
-## 1. Day - 1
+## Day - 1
 Printing a string, finding highest and lowest number, area-perimeter of a geometry, swapping 2 numbers, summation of series
-## 1. Day - 2
+## Day - 2
 Palindromic number, Armstrong and perfect number, array, matrix
+## Day - 3
+Palindromic and perfect number checking, different object oriented programs
