@@ -4,3 +4,13 @@
 ![](https://img.shields.io/badge/check_it-out-bee5ed?colorA=3fc5d1&colorB=469acf&style=for-the-badge)
 ![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=eb4646&colorB=b52d2d&style=for-the-badge)
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=ae36d6&style=for-the-badge&logo=visual-studio-code)
+---
+# Day :eight:
+   * Factorial of a number using recursion function
+   * Sum of a series using recursion function
+   * Sum of the diagonal elements of a matrix(from left to right)
+   * Sum of the diagonal elements of a matrix(from right to left)
+   * Swapping of 2 numbers using call by value function
+   * To copy a string
+   * To find the length of a string
+   * To reverse a string
