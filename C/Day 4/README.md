@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=eb4646&colorB=b52d2d&style=for-the-badge)
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=ae36d6&style=for-the-badge&logo=visual-studio-code)
 ---
-# Day 4 :four:
+# Day :four:
    * Armstrong number identification using while loop
    * Bubble sort
    * Combining two array
