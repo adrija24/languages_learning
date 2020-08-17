@@ -21,4 +21,4 @@ Learned how one package is created (basic procedure)
 ---
 The full python course has been offered by ```CodeWithHarry``` (https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) :link: <br>
 :small_blue_diamond: Moreover, it's completely **free of cost** :heart_eyes: :heart_eyes: :heart_eyes: <br>
-:small_blue_diamond: But please note, the tutorial is not in **English**. It's in ***```Hindi```*** language.
+:small_blue_diamond: But please note, the tutorial is not in ***```English```***. It's in ***```Hindi```*** language.
