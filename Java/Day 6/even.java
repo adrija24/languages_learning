@@ -1,7 +1,7 @@
 
 import java.io.DataInputStream;
 
-public class even 
+public class Even 
 {
 	public static void main(String args[])
 	{
