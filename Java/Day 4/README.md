@@ -6,11 +6,11 @@
 ![](https://img.shields.io/badge/java-learned-bee5ed?colorA=70a8c4&colorB=007396&style=for-the-badge&logo=java)
 ---
 # Day :four:
-BankingConstructor - Calculating total bank balance using constructor
-CheckArmstrongConstructor - Checking Armstrong number using constructor
-CheckPerfectConstructor - Checking perfect number using constructor
-CheckPrime - Checking prime number (without return) using constructor
-FactorialConstructor - Calculating the factorial of a number using constructor
-FibonacciConstructor - Calculating the summation of a fibonacci series using constructor
-PrimeNumberConstructorReturn - Checking prime number (with return) using constructor
-SumConstructor - Sum of two numbers using constructor
+   * BankingConstructor - Calculating total bank balance using constructor
+   * CheckArmstrongConstructor - Checking Armstrong number using constructor
+   * CheckPerfectConstructor - Checking perfect number using constructor
+   * CheckPrime - Checking prime number (without return) using constructor
+   * FactorialConstructor - Calculating the factorial of a number using constructor
+   * FibonacciConstructor - Calculating the summation of a fibonacci series using constructor
+   * PrimeNumberConstructorReturn - Checking prime number (with return) using constructor
+   * SumConstructor - Sum of two numbers using constructor
