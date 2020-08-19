@@ -6,6 +6,6 @@
 ![](https://img.shields.io/badge/java-learned-bee5ed?colorA=70a8c4&colorB=007396&style=for-the-badge&logo=java)
 ---
 # Day :five:
- * AreaCubeCuboid - Area of cube and cuboid using mthod overloading
- * CubeCuboid - Volume of cube and cuboid using mthod overloading
- * SquareRectangle - Area of square and rectangle using mthod overloading
+ * AreaCubeCuboid - Area of cube and cuboid using method overloading
+ * CubeCuboid - Volume of cube and cuboid using method overloading
+ * SquareRectangle - Area of square and rectangle using method overloading
