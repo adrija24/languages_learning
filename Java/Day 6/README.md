@@ -22,4 +22,4 @@
    * StringUpperToLower - Making a string uppercase to lowercase using ASCII value
    * StringVowel - Counting number of vowels in a string
    * StringWord - Counting number of words in a string
-   * WriteReadByte - Writing bytes in a file and resding from that file
+   * WriteReadByte - Writing bytes in a file and reading from that file
