@@ -14,3 +14,15 @@ Division, looping, multiple of a number in a range, odd-even number, calculator,
 Sum of various series and design using for loop
 ## Day - 4
 While loop and array
+## Day - 5
+Use of pointer, matrix and array
+## Day - 6
+Argument and return type function
+## Day - 7
+More examples of argument and return type function
+## Day - 8
+Recursion function and string
+## Day - 9
+More examples of various properties of string
+## Day - 10
+More examples of string and file
