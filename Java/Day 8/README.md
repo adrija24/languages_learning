@@ -9,8 +9,8 @@
    * HierarchicalInheritance.java - Hierarchical inheritance example
    <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%208/diagrams/HierarchicalInheritance.png">
    * MultilevelInheritance.java - Multilevel inheritance example
-   <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%208/MultilevelInheritance.java">
+   <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%208/diagrams/MultilevelInheritance.png">
    * MultipleInheritance.java - Multiple inheritance example
-   <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%208/MultipleInheritance.java">
+   <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%208/diagrams/MultipleInheritance.png">
    * SingleInheritance.java - Single inheritance example
-   <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%208/SingleInheritance.java">
+   <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%208/diagrams/SingleInheritance.png">
