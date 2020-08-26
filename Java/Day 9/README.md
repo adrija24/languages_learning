@@ -9,11 +9,11 @@
    * AandBtoCtoD - Interface eaxmple of C interface extends A and B interface and finaly class D implements C
    <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%209/diagrams/AandBtoCtoD.png">
    
-   <br>
+   
    * AtoBtoC - Interface eaxmple of class B implements interface A and class C extends class B
    <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%209/diagrams/AtoBtoC.png">
    
-   <br>
+   
    * DtoEtoB_AtoB_BtoC - Interface eaxmple of interface E extends interface D, then class B implements interface A and interface E and finally class C extends class B
    <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%209/diagrams/DtoEtoB_AtoB_BtoC.png">
 
@@ -21,6 +21,6 @@
    * Hybrid - Interface eaxmple of class Test extends class Student and finally class Results extends class Test and implements interface Sports
    <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%209/diagrams/Hybrid.png">
    
-   <br>
+   
    * InterfaceTest - Area of rectangle and circle using interface
    <img src="https://github.com/aritraroy24/languages_learning/blob/master/Java/Day%209/diagrams/InterfaceTest.png">
