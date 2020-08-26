@@ -26,7 +26,7 @@ public class RandomAccess
 		{
 			rFile = new RandomAccessFile("city.txt", "rw");
 			rFile.seek(rFile.length());
-			rFile.writeBytes("MUMBAI\n");
+			rFile.writeBytes("\tMUMBAI\n");
 			rFile.close();
 		}
 		catch (IOException ioe) {System.out.print(ioe);}
