@@ -12,3 +12,17 @@ Printing a string, finding highest and lowest number, area-perimeter of a geomet
 Palindromic number, Armstrong and perfect number, array, matrix
 ## Day - 3
 Palindromic and perfect number checking, different object oriented programs
+## Day - 4
+Examples of constructors
+## Day - 5
+Examples of method overloading
+## Day - 6
+DIfferent string properties
+## Day - 7
+Writing and reading given random integer and integer, double, boolean and character
+## Day - 8
+Different types of inheritance
+## Day - 9
+Different types of interface
+## Day - 10
+Different file programs
