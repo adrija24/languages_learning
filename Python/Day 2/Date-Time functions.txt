@@ -1,0 +1,26 @@
+Date/Time functions
+time.strftime()
+
+
+%a	Local's abbreviated weekday name
+%A	Local's full weekday name
+%b	Local's abbreviated month name
+%B	Local's full month name
+%c	Local's appropriate date and time representation
+%d	Day of a month as a decimal (0-31)
+%H	Hour as decimal (0-23, 24-hour clock)
+%I	Hour as decimal (01-12, 12-hour clock)
+%j	Day of year as decimal(001-366)
+%m	Month as decimal (01-12)
+%M	Minute as decimal (00-59)
+%p	Local's equivalent of A.M. & P.M.
+%S	Second as a decimal (00-59)
+%U	Week no. of the year (00-53, Sunday as first day of week)
+%w	Weekly as a decimal(0-6, Sunday as first day of week)
+%W	Week no. of the year (00-53, Monday as the first day of week)
+%x	Local's appropriate date representation
+%X	Local's appropriate time representation
+%y	Year without century prefix as decimal (00-99)
+%Y	Year with century as decimal
+%Z	Name of the current time zone
+%%	The % character
