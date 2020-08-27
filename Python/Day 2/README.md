@@ -12,7 +12,7 @@
    * Creating a matrix and display using numpy
    * Creating a matrix and display without numpy
    * Creating a matrix and display without numpy
-   * Date-Time programs
+   * Various Date-Time programs
    * Input and display and reverse of array
    * Input and display of array
    * Max and min number in array
