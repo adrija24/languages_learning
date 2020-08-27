@@ -6,24 +6,25 @@
 ![](https://img.shields.io/badge/python-used-bee5ed?colorA=37b6bd&colorB=3c9bb5&style=for-the-badge&logo=python)
 ---
 # Day :five:
-Adding two strings using function
-Adding two binary numbers using function
-Adding two octal numbers using function
-Armstrong number checking using function
-Calculator using function
-Design using function
-Factorial of a number using function using function
-Factorial using recursion approach using function
-Factors of a number using function
-Fibonacci series using function
-HCF of two numbers using function
-LCM of two numbers using function
-Maximum number using function using function
-No of spaces count of a string using function
-Palindromic sequence check of a number using function
-Palindromic sequence check of a string using function
-Reverse of a number using function
-Swapping using function using function
-To check a special word(1st and last letter same) using function
-Tribonacci series using function
-Try-Exception example using function
+   * Adding two strings using function
+   * Adding two binary numbers using function
+   * Adding two octal numbers using function
+   * Armstrong number checking using function
+   * Calculator using function
+   * Design using function
+   * Factorial of a number using function using function
+   * Factorial using recursion approach using function
+   * Factors of a number using function
+   * Fibonacci series using function
+   * HCF of two numbers using function
+   * LCM of two numbers using function
+   * Maximum number using function using function
+   * No of spaces count of a string using function
+   * Palindromic sequence check of a number using function
+   * Palindromic sequence check of a string using function
+   * Reverse of a number using function
+   * Swapping using function using function
+   * To check a special word(1st and last letter same) using function
+   * Tribonacci series using function
+   * Try-Exception example using function
+   * 
