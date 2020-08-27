@@ -5,7 +5,8 @@
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=ae36d6&style=for-the-badge&logo=visual-studio-code)
 ![](https://img.shields.io/badge/python-used-bee5ed?colorA=37b6bd&colorB=3c9bb5&style=for-the-badge&logo=python)
 ---
-# Code_With_Harry - Exercises and practice set solutions of ***```Python Tutorials For Absolute Beginners In Hindi```*** series by ***```CodeWithHarry```*** youtube channel
+# Code_With_Harry
+Exercises and practice set solutions of ***```Python Tutorials For Absolute Beginners In Hindi```*** series by ***```CodeWithHarry```*** youtube channel
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME
 ***
 # Various type of basic Python programs
