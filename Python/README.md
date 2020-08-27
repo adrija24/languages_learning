@@ -7,9 +7,19 @@
 ---
 # Code_With_Harry
 ---
-Exercises and practice set solutions of ***```Python Tutorials For Absolute Beginners In Hindi```*** series by ***```CodeWithHarry```*** youtube channel
+Exercises and practice set solutions of ***```Python Tutorials For Absolute Beginners In Hindi```*** series by ***```CodeWithHarry```*** youtube channel<br>
 https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME :link:
 # Various type of basic Python programs
 ---
-### Day - 1
+## Day - 1
 Area, perimeter of rectangle and circle, pattern printing and summation of different series
+## Day - 2
+Different programs of array and matrix
+## Day - 3
+Different programs for lists and strings
+## Day - 4
+Other examples of different types of list and string programs
+## Day - 5
+different programs using function
+## Day - 6
+Programs using file
