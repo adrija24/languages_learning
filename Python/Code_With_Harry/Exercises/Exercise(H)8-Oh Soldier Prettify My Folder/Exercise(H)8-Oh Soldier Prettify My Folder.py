@@ -9,7 +9,7 @@ def soldier(path, format_change):
             os.rename(file, file.capitalize())
         
         elif os.path.splitext(file)[1] == format_change:
-            os.rename(file, f"Kodaikanal_Day2_Video_{i}{format_change}")
+            os.rename(file, f"{i}{format_change}")
             i +=1
 
 if __name__=='__main__':
