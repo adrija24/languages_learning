@@ -24,8 +24,12 @@ Arrays and objects in JavaScript
 If-else conditions and switches in JavaScript
 ## Tutorial 9
 For, while and do-while loops in JavaScript
-
-
+## Tutorial 10
+Functions in JavaScript
+## Tutorial 11
+Manipulating websites using JavaScript window object
+## Tutorial 12
+Understanding DOM and creating a website layout
 
 ***
 Complete course can be accessed here - <br>(https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) :link:
