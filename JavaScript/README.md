@@ -6,8 +6,6 @@
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=5094cc&style=for-the-badge&logo=visual-studio-code)
 # Course by YouTube channel CodeWithHarry 
 ---
-(https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) :link:
-***
 ## Tutorial 1
 Setting up VS Code and introduction
 ## Tutorial 2
@@ -26,3 +24,7 @@ Arrays and objects in JavaScript
 If-else conditions and switches in JavaScript
 ## Tutorial 9
 For, while and do-while loops in JavaScript
+
+
+***
+Complete course can be accessed here - <br>(https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) :link:
