@@ -4,8 +4,10 @@
 ![](https://img.shields.io/badge/check_it-out-bee5ed?colorA=37b6bd&colorB=3c9bb5&style=for-the-badge)
 ![](https://img.shields.io/badge/made_with-C-bee5ed?colorA=f5e856&colorB=ffa526&style=for-the-badge)
 ![](https://img.shields.io/badge/visual_studio_code-1.47.3-181717?colorA=5094cc&style=for-the-badge&logo=visual-studio-code)
-# Course by YouTube channel CodeWithHarry (https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) :link:
+# Course by YouTube channel CodeWithHarry 
 ---
+(https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) :link:
+***
 ## Tutorial 1
 Setting up VS Code and introduction
 ## Tutorial 2
