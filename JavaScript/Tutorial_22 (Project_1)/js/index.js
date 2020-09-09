@@ -4,35 +4,48 @@ showNotes();
 // If user adds a note, it'll be added to the localstorage
 let addBtn = document.getElementById("addBtn");
 addBtn.addEventListener("click", function (e) {
+    let addHeading = document.getElementById("heading");
+    console.log(addHeading.value)
     let addText = document.getElementById("addText");
     let notes = localStorage.getItem("notes");
-    if (notes == null) {
+    let headings = localStorage.getItem("headings")
+    console.log(notes)
+    if (notes == null && headings==null) {
+        headingsObj = [];
         notesObj = [];
     }
     else {
+        headingsObj = JSON.parse(headings)
         notesObj = JSON.parse(notes);
     }
+    headingsObj.push(addHeading.value)
     notesObj.push(addText.value);
     localStorage.setItem("notes", JSON.stringify(notesObj));
     addText.value = "";
+    localStorage.setItem("headings", JSON.stringify(headingsObj));
+    addHeading.value = "";
+    console.log(notes+"-----"+ headings)
     showNotes();
 })
 
 
 // Function to show elements from localStorage
 function showNotes() {
+    let headings = localStorage.getItem("headings")
     let notes = localStorage.getItem("notes");
     if (notes == null) {
         notesObj = [];
+        headingsObj = [];
     } else {
+        headingsObj = JSON.parse(headings);
         notesObj = JSON.parse(notes);
     }
     let html = "";
     notesObj.forEach(function (element, index) {
         html += `
-              <div class="noteCard my-2 mx-3 card" style="width: 18rem;">
+              <div class="noteCard my-2 mx-3 card justify-content-between" style="width: 18rem; ">
                       <div class="card-body">
-                            <h5 class="card-title">Note ${index + 1}</h5>
+                            <h5 class="card-title">${headingsObj[index]}</h5>
                             <p class="card-text"> ${element}</p>
                             <button id="${index}" onclick="deleteNote(this.id)" class="btn btn-primary" style="box-shadow:none">Delete Note</button>
                       </div>
