@@ -2,7 +2,6 @@
 ![](https://img.shields.io/badge/java-learned-bee5ed?colorA=70a8c4&colorB=007396&style=for-the-badge&logo=java)
 ![](https://img.shields.io/badge/javascript-used-bee5ed?colorA=487d3e&colorB=b0c92e&style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/python-used-bee5ed?colorA=d16521&colorB=b55010&style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/visual_studio_code-1.48.0-181717?colorA=ae36d6&style=for-the-badge&logo=visual-studio-code)
 ---
 ---
 
