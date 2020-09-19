@@ -5,11 +5,10 @@ showNotes();
 let addBtn = document.getElementById("addBtn");
 addBtn.addEventListener("click", function (e) {
     let addHeading = document.getElementById("heading");
-    console.log(addHeading.value)
-    let addText = document.getElementById("addText");
+    // console.log(addHeading.value)
     let notes = localStorage.getItem("notes");
     let headings = localStorage.getItem("headings")
-    console.log(notes)
+    // console.log(notes)
     if (notes == null && headings==null) {
         headingsObj = [];
         notesObj = [];
@@ -24,7 +23,7 @@ addBtn.addEventListener("click", function (e) {
     addText.value = "";
     localStorage.setItem("headings", JSON.stringify(headingsObj));
     addHeading.value = "";
-    console.log(notes+"-----"+ headings)
+    // console.log(notes+"-----"+ addHeading)
     showNotes();
 })
 
@@ -62,13 +61,16 @@ function showNotes() {
 // Function to delete a note
 function deleteNote(index) {
     let notes = localStorage.getItem("notes");
+    let headings = localStorage.getItem("headings");
     // if (notes == null) {
     //     notesObj = [];
     // } else {
     //     notesObj = JSON.parse(notes);
     // }
     notesObj.splice(index, 1);
+    headingsObj.splice(index,1);
     localStorage.setItem("notes", JSON.stringify(notesObj));
+    localStorage.setItem("headings",JSON.stringify(headingsObj));
     showNotes();
 }
 
