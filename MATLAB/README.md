@@ -19,3 +19,14 @@ https://www.youtube.com/playlist?list=PLjVLYmrlmjGcNZrPa9bRg0JVlcxLX4Mu9 :link:
 *   Two Curve in One Plot
 *   Graph Subplot
 *   Graph Line Specify
+
+## Day - 2
+*   Triangular Wave Plot
+*   Square Wave Plot
+*   Sawtooth Wave Plot
+*   Complex Exponential Signal Plot
+*   Exponentially Decaying Sinusoidal Plot
+*   Exponentially Increasing Sinusoidal Plot
+*   Adding Two Continuous Signals
+*   Subtracting Two Continuous Signals
+*   Random Value Generation
