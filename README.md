@@ -10,4 +10,3 @@
    * C
    * Java
    * JavaScript
-   * Python
