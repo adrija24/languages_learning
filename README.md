@@ -7,7 +7,6 @@
 
 
 # Different Languages' List:
-   * C
    * Java
    * JavaScript
    * Python
